@@ -1,0 +1,12 @@
+Control Ref,Test Objective,Evidence Request,Pass/Fail
+A.9.2.1,User access provisioning documented,IAM policy + ticket,FALSE
+A.9.2.3,Privileged accounts reviewed quarterly,CSV + approval email,FALSE
+A.9.4.1,Segregation of duties in IAM roles,Role matrix,FALSE
+A.12.1.1,Asset inventory accuracy,CMDB export,FALSE
+A.12.4.1,Log retention ? 1 year,CloudWatch setting,FALSE
+A.12.4.3,Clock synchronization,NTP config screenshot,FALSE
+A.13.1.1,VPC / subnet segregation,Network diagram,FALSE
+A.13.2.1,Information-transfer policy,Policy PDF + signed form,FALSE
+A.16.1.2,Incident response contact list,Updated call tree,FALSE
+A.17.2.1,Availability monitoring,Health-check dashboard,FALSE
+A.18.2.2,Compliance training records,LMS report,FALSE
